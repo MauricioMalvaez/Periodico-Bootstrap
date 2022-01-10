@@ -1,0 +1,120 @@
+
+
+#jumbo{
+    background: #283c86;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #45a247, #283c86);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #45a247, #283c86); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.display-4{
+    font-size: 90px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: cornsilk;
+    color: #005900;
+
+text-shadow: #FFFCA8 2px 2px 0px, #9C9C9C 4px 4px 0px;
+color: #005900;
+
+}
+
+.lead{
+    font-family: 'Raleway', sans-serif;
+text-align: center;
+color: cornsilk;
+}
+
+body{
+    background: #EFEFBB;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #D4D3DD, #EFEFBB);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #D4D3DD, #EFEFBB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+    
+}
+
+#Home{
+    font-size: large;
+}
+
+#News{
+    font-size: large;
+  
+}
+#NewMusic{
+    font-size: large;
+  
+}
+#Video{
+    font-size: large;
+  
+}
+
+#Esc{
+    font-size: large;
+}
+#Best{
+    font-size: large;
+    color: forestgreen;
+    
+}
+
+#img-week{
+    width: 500%;
+    cursor: pointer;
+}
+#centered{
+  font-family: 'Libre Baskerville', serif;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: aliceblue;
+  background-color: gray ; 
+  font-size: xx-large;
+  opacity: 70%;
+  cursor: pointer;
+}
+
+.card{
+    background: #373B44;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #4286f4, #373B44);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #4286f4, #373B44); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+#Bjork{
+    width: 60%;
+    align-self: center;
+    justify-content: space-evenly;
+}
+
+.card-title{
+   font-family: 'Libre Baskerville', serif;
+   color: ghostwhite;
+   text-align: center;
+}
+
+.card-text{
+    color: ghostwhite;
+    text-align: center;
+   font-family: 'Libre Baskerville', serif;
+}
+
+.Reseñas{
+    margin-top: 50px;
+    background-color: gray;
+    width: auto;
+}
+
+h1{
+    margin-bottom: 40px;
+}
+
+.formulario{
+    width: 100%;
+    height: 50px;
+}
